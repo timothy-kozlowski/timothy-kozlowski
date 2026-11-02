@@ -8,7 +8,7 @@ A smart home controller built around a push-button rotary encoder and a 2.1" rou
 
 ## Connect
 - Email: timothy_kozlowski@berkeley.edu
-- LinkedIn: https://www.linkedin.com/in/timothy-kozlowski512
+- LinkedIn: https://www.linkedin.com/in/tim-kozlowski
 <!--
 **timothy-kozlowski/timothy-kozlowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
