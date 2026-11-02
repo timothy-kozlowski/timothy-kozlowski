@@ -1,5 +1,14 @@
-## Hi there 👋
+## Timothy Kozlowski's Github Profile
+Hi, I'm Timothy Kozlowski! I am a student at UC Berkeley, majoring in Electrical and Computer Engineering. I'm interested in everything related to robotics, hardware, software, AI/ML, and automotive fields. I also love playing music, going on hikes, and running.
 
+## Projects:
+
+### [Smart Knob](https://github.com/timothy-kozlowski/smart-knob)
+A smart home controller built around a push-button rotary encoder and a 2.1" round color display, powered by an ESP32-S3 with ESP-IDF firmware. I started with a breadboard prototype and am now designing a custom PCB in KiCad, modeled on proven open-source boards like the Adafruit Qualia and Feather, with LiPo battery charging added. I'm using the project to teach myself PCB design end to end, from schematic and part selection through layout and design-rule checks.
+
+## Connect
+- Email: timothy_kozlowski@berkeley.edu
+- LinkedIn: https://www.linkedin.com/in/timothy-kozlowski512
 <!--
 **timothy-kozlowski/timothy-kozlowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
